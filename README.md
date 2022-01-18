@@ -1,4 +1,4 @@
-# tomcat-test
+# docker-test
 
 ## Instructions
 
