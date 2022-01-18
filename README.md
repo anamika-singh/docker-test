@@ -3,7 +3,7 @@
 ## Instructions
 
 > Clone this git repo to your local workspace and follow the below\
-> Note: Steps 1, 3 should be inside the Dockerfile
+> Note: Steps 2, 3 & 4 should be inside the Dockerfile
 
 1. Create a new branch (Git). branch name should be your `first name`
 2. Create a folder under /usr/local/tomcat/webapps called `ROOT`
